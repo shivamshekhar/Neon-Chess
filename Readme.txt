@@ -8,6 +8,7 @@ Features:
 1. Shows the highlighted pieces
 2. Prevents user from making an illegal move
 3. Pawn promotion
+4. Save and Load your game
 
 To be added soon:
 -Castling
